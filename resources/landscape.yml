@@ -5,4 +5,6 @@ steps:
   testsPublishResults:
     junit:
       archive: true
+      active: true
+      message: 'hallo Marcus'
       
