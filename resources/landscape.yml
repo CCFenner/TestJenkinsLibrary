@@ -1,3 +1,8 @@
 #Project Setup
 general:
   productiveBranch: 'my-fancy-branch'
+steps:
+  testsPublishResults:
+    junit:
+      archive: true
+      
